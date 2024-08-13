@@ -17,7 +17,9 @@ echo $resultado . "\n"; // 2
 $resultado %=5; // Resto igual 2 portanto o número é ímpar.
 echo $resultado;
 
-/** A variável resultado muda seu valor conforme as operações de atribuição
-vão acontecendo */
+/** 
+ * A variável resultado muda seu valor conforme as operações de atribuição
+ * vão acontecendo 
+ * */
 
 ?>

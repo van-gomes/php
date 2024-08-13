@@ -2,7 +2,7 @@
 <html>
 <body>
 
-/* Sensibilidade a maiúsculas e minúsculas em PHP.
+/** Sensibilidade a maiúsculas e minúsculas em PHP. 
 No exemplo abaixo, todas as três instruções echo abaixo são iguais e legais */
 
 <?php 
